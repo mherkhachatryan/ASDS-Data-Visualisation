@@ -20,5 +20,5 @@ setup(name='urbanmob',
           "Operating System :: OS Independent",
       ],
       python_requires='>=3.8',
-      install_requires=[],
+      install_requires=["dash==2.4.1"],
       zip_safe=False)
